@@ -1,6 +1,6 @@
 Objective
 Create a Customer Performance Report (https://github.com/supriya1603/Excel-Sales-Finance-Analytics/blob/2f88e212b5e1df3a2408f5c3d9784655974c21ce/Customer%20Performance%20Report.pdf)
-Conduct a comprehensive comparison between Market Performance and Sales Targets (https://github.com/MithraJayabalan/Excel-Sales-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+Conduct a comprehensive comparison between Market Performance and Sales Targets (https://github.com/supriya1603/Excel-Sales-Finance-Analytics/blob/2f88e212b5e1df3a2408f5c3d9784655974c21ce/Market%20Performance%20vs%20Target%20Report.pdf)
 Purpose of Sales Analytics
 The purpose of sales analytics is to leverage data insights for optimizing sales strategies, enhancing performance, and driving revenue growth.
 
@@ -12,8 +12,8 @@ Determine effective customer discounts, facilitate negotiations with consumers, 
 
 Finance Report
 Objective
-Create Profit & Loss Reports by Fiscal Year (https://github.com/MithraJayabalan/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
-Create Profit & Loss Reports by Markets (https://github.com/MithraJayabalan/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+Create Profit & Loss Reports by Fiscal Year (https://github.com/supriya1603/Excel-Sales-Finance-Analytics/blob/0269db2453f5b077dab59d6b188b840bb18ce005/P%26L%20Statement%20by%20Fiscal%20Year.pd)
+Create Profit & Loss Reports by Markets (https://github.com/supriya1603/Excel-Sales-Finance-Analytics/blob/0269db2453f5b077dab59d6b188b840bb18ce005/P%26L%20Statement%20by%20Markets.pdf)
 Purpose of Finance Analytics
 Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
